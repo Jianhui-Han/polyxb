@@ -1,0 +1,3 @@
+[submodule "isl-polyxb"]
+	path = isl-polyxb
+	url = git@github.com:Jianhui-Han/isl-polyxb.git
